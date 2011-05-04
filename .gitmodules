@@ -1,0 +1,3 @@
+[submodule "vendor/mindmeister-php"]
+	path = vendor/mindmeister-php
+	url = git@github.com:oncletom/mindmeister-php.git
